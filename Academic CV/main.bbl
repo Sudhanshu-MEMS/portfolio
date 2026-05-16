@@ -1,0 +1,1214 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ydnt/global//global/global/global}
+    \entry{devitt2026spin}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=14b94c9604cf6b5332119041f2b1bc76}{%
+           family={Devitt},
+           familyi={D\bibinitperiod},
+           given={Connor},
+           giveni={C\bibinitperiod}}}%
+        {{hash=407b5021b8db6c5f8085f5214b7bfede}{%
+           family={\textbf{Tiwari}},
+           familyi={T\bibinitperiod},
+           given={\textbf{Sudhanshu}},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0861dcf10ed004016a9ae936cf1ff786}{%
+           family={Zivasatienraj},
+           familyi={Z\bibinitperiod},
+           given={Bill},
+           giveni={B\bibinitperiod}}}%
+        {{hash=d55da27563305e393821296b22938d7c}{%
+           family={Bhave},
+           familyi={B\bibinitperiod},
+           given={Sunil\bibnamedelima A},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group UK London}%
+      }
+      \strng{namehash}{ac3270ff10838f0282ee330c03e399b2}
+      \strng{fullhash}{ac3270ff10838f0282ee330c03e399b2}
+      \strng{fullhashraw}{ac3270ff10838f0282ee330c03e399b2}
+      \strng{bibnamehash}{ac3270ff10838f0282ee330c03e399b2}
+      \strng{authorbibnamehash}{ac3270ff10838f0282ee330c03e399b2}
+      \strng{authornamehash}{ac3270ff10838f0282ee330c03e399b2}
+      \strng{authorfullhash}{ac3270ff10838f0282ee330c03e399b2}
+      \strng{authorfullhashraw}{ac3270ff10838f0282ee330c03e399b2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{title}{Spin-wave band-pass filters for 6G communication}
+      \field{year}{2026}
+      \true{nocite}
+    \endentry
+    \entry{Connor}{patent}{}{}
+      \name{author}{3}{}{%
+        {{hash=14b94c9604cf6b5332119041f2b1bc76}{%
+           family={Devitt},
+           familyi={D\bibinitperiod},
+           given={Connor},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d55da27563305e393821296b22938d7c}{%
+           family={Bhave},
+           familyi={B\bibinitperiod},
+           given={Sunil\bibnamedelima A},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=407b5021b8db6c5f8085f5214b7bfede}{%
+           family={\textbf{Tiwari}},
+           familyi={T\bibinitperiod},
+           given={\textbf{Sudhanshu}},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {US Patent Application}%
+      }
+      \strng{namehash}{eb3c2fc99e23b6cc302d41e00ee47862}
+      \strng{fullhash}{eb3c2fc99e23b6cc302d41e00ee47862}
+      \strng{fullhashraw}{eb3c2fc99e23b6cc302d41e00ee47862}
+      \strng{bibnamehash}{eb3c2fc99e23b6cc302d41e00ee47862}
+      \strng{authorbibnamehash}{eb3c2fc99e23b6cc302d41e00ee47862}
+      \strng{authornamehash}{eb3c2fc99e23b6cc302d41e00ee47862}
+      \strng{authorfullhash}{eb3c2fc99e23b6cc302d41e00ee47862}
+      \strng{authorfullhashraw}{eb3c2fc99e23b6cc302d41e00ee47862}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{SINGLE MAGNETIC BIAS MAGNETOSTATIC WAVE FILTER}
+      \field{year}{2025}
+      \true{nocite}
+    \endentry
+    \entry{tiwari2025high}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=f1d4832d6fa5dece32a2e60082558bac}{%
+           family={\textbf{Tiwari,\bibnamedelimb Sudhanshu}},
+           familyi={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=9d777a0c7db8382876fddad963a67e3e}{%
+           family={Ashok},
+           familyi={A\bibinitperiod},
+           given={Anuj},
+           giveni={A\bibinitperiod}}}%
+        {{hash=14b94c9604cf6b5332119041f2b1bc76}{%
+           family={Devitt},
+           familyi={D\bibinitperiod},
+           given={Connor},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d55da27563305e393821296b22938d7c}{%
+           family={Bhave},
+           familyi={B\bibinitperiod},
+           given={Sunil\bibnamedelima A},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=2c34f2a293ace371cd0049e6c7ca41b1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Renyuan},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group UK London}%
+      }
+      \strng{namehash}{b1090121b5bac2ddac5314f810e3e3ef}
+      \strng{fullhash}{b1090121b5bac2ddac5314f810e3e3ef}
+      \strng{fullhashraw}{b1090121b5bac2ddac5314f810e3e3ef}
+      \strng{bibnamehash}{b1090121b5bac2ddac5314f810e3e3ef}
+      \strng{authorbibnamehash}{b1090121b5bac2ddac5314f810e3e3ef}
+      \strng{authornamehash}{b1090121b5bac2ddac5314f810e3e3ef}
+      \strng{authorfullhash}{b1090121b5bac2ddac5314f810e3e3ef}
+      \strng{authorfullhashraw}{b1090121b5bac2ddac5314f810e3e3ef}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Electronics}
+      \field{title}{High-performance magnetostatic wave resonators based on deep anisotropic etching of gadolinium gallium garnet substrates}
+      \field{year}{2025}
+      \true{nocite}
+    \endentry
+    \entry{10495360}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=14b94c9604cf6b5332119041f2b1bc76}{%
+           family={Devitt},
+           familyi={D\bibinitperiod},
+           given={Connor},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f1d4832d6fa5dece32a2e60082558bac}{%
+           family={\textbf{Tiwari,\bibnamedelimb Sudhanshu}},
+           familyi={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=d55da27563305e393821296b22938d7c}{%
+           family={Bhave},
+           familyi={B\bibinitperiod},
+           given={Sunil\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=2c34f2a293ace371cd0049e6c7ca41b1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Renyuan},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{0a0cb8ba0c838e45829ffc5f63f93d05}
+      \strng{fullhash}{0a0cb8ba0c838e45829ffc5f63f93d05}
+      \strng{fullhashraw}{0a0cb8ba0c838e45829ffc5f63f93d05}
+      \strng{bibnamehash}{0a0cb8ba0c838e45829ffc5f63f93d05}
+      \strng{authorbibnamehash}{0a0cb8ba0c838e45829ffc5f63f93d05}
+      \strng{authornamehash}{0a0cb8ba0c838e45829ffc5f63f93d05}
+      \strng{authorfullhash}{0a0cb8ba0c838e45829ffc5f63f93d05}
+      \strng{authorfullhashraw}{0a0cb8ba0c838e45829ffc5f63f93d05}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Microwave Theory and Techniques}
+      \field{title}{A Distributed Magnetostatic Resonator}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+      \keyw{Gold;Transducers;Magnetostatic waves;Magnetostatics;Couplings;Magnetoacoustic effects;Filters;Magnetostatic wave (MSW);micromachining;tunable resonator;yttrium iron garnet (YIG)}
+    \endentry
+    \entry{devitt2024edge}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=14b94c9604cf6b5332119041f2b1bc76}{%
+           family={Devitt},
+           familyi={D\bibinitperiod},
+           given={Connor},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2c34f2a293ace371cd0049e6c7ca41b1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Renyuan},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f1d4832d6fa5dece32a2e60082558bac}{%
+           family={\textbf{Tiwari,\bibnamedelimb Sudhanshu}},
+           familyi={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=d55da27563305e393821296b22938d7c}{%
+           family={Bhave},
+           familyi={B\bibinitperiod},
+           given={Sunil\bibnamedelima A},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group UK London}%
+      }
+      \strng{namehash}{c068d0e825c4ee117490fa57ae1660a7}
+      \strng{fullhash}{c068d0e825c4ee117490fa57ae1660a7}
+      \strng{fullhashraw}{c068d0e825c4ee117490fa57ae1660a7}
+      \strng{bibnamehash}{c068d0e825c4ee117490fa57ae1660a7}
+      \strng{authorbibnamehash}{c068d0e825c4ee117490fa57ae1660a7}
+      \strng{authornamehash}{c068d0e825c4ee117490fa57ae1660a7}
+      \strng{authorfullhash}{c068d0e825c4ee117490fa57ae1660a7}
+      \strng{authorfullhashraw}{c068d0e825c4ee117490fa57ae1660a7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Communications}
+      \field{number}{1}
+      \field{title}{An edge-coupled magnetostatic bandpass filter}
+      \field{volume}{15}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{7764}
+      \range{pages}{1}
+    \endentry
+    \entry{wang2024temperature}{inproceedings}{}{}
+      \name{author}{6}{}{%
+        {{hash=2c34f2a293ace371cd0049e6c7ca41b1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Renyuan},
+           giveni={R\bibinitperiod}}}%
+        {{hash=14b94c9604cf6b5332119041f2b1bc76}{%
+           family={Devitt},
+           familyi={D\bibinitperiod},
+           given={Connor},
+           giveni={C\bibinitperiod}}}%
+        {{hash=1d73c9f9de9facb2a8f84587fa441b5a}{%
+           family={Langlois},
+           familyi={L\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=f1d4832d6fa5dece32a2e60082558bac}{%
+           family={\textbf{Tiwari,\bibnamedelimb Sudhanshu}},
+           familyi={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=9d777a0c7db8382876fddad963a67e3e}{%
+           family={Ashok},
+           familyi={A\bibinitperiod},
+           given={Anuj},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c779acaa45534c241c52a8f31dcdfc4d}{%
+           family={Bhave},
+           familyi={B\bibinitperiod},
+           given={Sunil},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{03bdaabf97ae6dedb8aef27dc23e484f}
+      \strng{fullhash}{03bdaabf97ae6dedb8aef27dc23e484f}
+      \strng{fullhashraw}{03bdaabf97ae6dedb8aef27dc23e484f}
+      \strng{bibnamehash}{03bdaabf97ae6dedb8aef27dc23e484f}
+      \strng{authorbibnamehash}{03bdaabf97ae6dedb8aef27dc23e484f}
+      \strng{authornamehash}{03bdaabf97ae6dedb8aef27dc23e484f}
+      \strng{authorfullhash}{03bdaabf97ae6dedb8aef27dc23e484f}
+      \strng{authorfullhashraw}{03bdaabf97ae6dedb8aef27dc23e484f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2024 IEEE MTT-S International Microwave Symposium}
+      \field{title}{Temperature Compensated Magnetostatic Wave Resonator Microsystem}
+      \field{year}{2024}
+      \true{nocite}
+    \endentry
+    \entry{wang2024giant}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=2c34f2a293ace371cd0049e6c7ca41b1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Renyuan},
+           giveni={R\bibinitperiod}}}%
+        {{hash=de8863abbd9e1b3fc27b3d129a376b47}{%
+           family={\textbf{Tiwari,\bibnamedelimb Sudhanshu*}},
+           familyi={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=85f836b6f30834ec73099ee418d48fd0}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Yiyang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=6cf45db564ebe54cfcf63a52c00e2488}{%
+           family={Dai},
+           familyi={D\bibinitperiod},
+           given={Sen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d55da27563305e393821296b22938d7c}{%
+           family={Bhave},
+           familyi={B\bibinitperiod},
+           given={Sunil\bibnamedelima A},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{bac82b9e7521f6cce7f0089296efced8}
+      \strng{fullhash}{bac82b9e7521f6cce7f0089296efced8}
+      \strng{fullhashraw}{bac82b9e7521f6cce7f0089296efced8}
+      \strng{bibnamehash}{bac82b9e7521f6cce7f0089296efced8}
+      \strng{authorbibnamehash}{bac82b9e7521f6cce7f0089296efced8}
+      \strng{authornamehash}{bac82b9e7521f6cce7f0089296efced8}
+      \strng{authorfullhash}{bac82b9e7521f6cce7f0089296efced8}
+      \strng{authorfullhashraw}{bac82b9e7521f6cce7f0089296efced8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2405.13303}
+      \field{title}{Giant Real-time Strain-Induced Anisotropy Field Tuning in Suspended Yttrium Iron Garnet Thin Films}
+      \field{year}{2024}
+      \true{nocite}
+    \endentry
+    \entry{10111074}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=85f836b6f30834ec73099ee418d48fd0}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Yiyang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=f1d4832d6fa5dece32a2e60082558bac}{%
+           family={\textbf{Tiwari,\bibnamedelimb Sudhanshu}},
+           familyi={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=d55da27563305e393821296b22938d7c}{%
+           family={Bhave},
+           familyi={B\bibinitperiod},
+           given={Sunil\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=2c34f2a293ace371cd0049e6c7ca41b1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Renyuan},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{70d9352e4bd94eab14d239f60638a3dc}
+      \strng{fullhash}{70d9352e4bd94eab14d239f60638a3dc}
+      \strng{fullhashraw}{70d9352e4bd94eab14d239f60638a3dc}
+      \strng{bibnamehash}{70d9352e4bd94eab14d239f60638a3dc}
+      \strng{authorbibnamehash}{70d9352e4bd94eab14d239f60638a3dc}
+      \strng{authornamehash}{70d9352e4bd94eab14d239f60638a3dc}
+      \strng{authorfullhash}{70d9352e4bd94eab14d239f60638a3dc}
+      \strng{authorfullhashraw}{70d9352e4bd94eab14d239f60638a3dc}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Microwave and Wireless Technology Letters}
+      \field{title}{Micromachined Tunable Magnetostatic Forward Volume Wave Bandstop Filter}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 4}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/LMWT.2023.3267449
+      \endverb
+    \endentry
+    \entry{10272199}{inproceedings}{}{}
+      \name{author}{7}{}{%
+        {{hash=21eb405eaf7e9ffbfe1d5d771424e65b}{%
+           family={N},
+           familyi={N\bibinitperiod},
+           given={Javed},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ddb9da3c9c67a7bef59167f23c8ae6e9}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Priyanka},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f1d4832d6fa5dece32a2e60082558bac}{%
+           family={\textbf{Tiwari,\bibnamedelimb Sudhanshu}},
+           familyi={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=72f2f90e7b1490c2c88c897ce41328a3}{%
+           family={Jain},
+           familyi={J\bibinitperiod},
+           given={Pavitra},
+           giveni={P\bibinitperiod}}}%
+        {{hash=d5118d8744e0a9916e66a55a9b601bbf}{%
+           family={Sandeep},
+           familyi={S\bibinitperiod},
+           given={Kongbrailatpam},
+           giveni={K\bibinitperiod}}}%
+        {{hash=0e1788e2b986a8b6e191db436f128e0c}{%
+           family={Pratap},
+           familyi={P\bibinitperiod},
+           given={Rudra},
+           giveni={R\bibinitperiod}}}%
+        {{hash=dc02253cdc090cb09a21d7bd9773de73}{%
+           family={Pillai},
+           familyi={P\bibinitperiod},
+           given={Gayathri},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{f1e8a5d51bc6ceb7c429712ac0ac04bb}
+      \strng{fullhash}{f1e8a5d51bc6ceb7c429712ac0ac04bb}
+      \strng{fullhashraw}{f1e8a5d51bc6ceb7c429712ac0ac04bb}
+      \strng{bibnamehash}{f1e8a5d51bc6ceb7c429712ac0ac04bb}
+      \strng{authorbibnamehash}{f1e8a5d51bc6ceb7c429712ac0ac04bb}
+      \strng{authornamehash}{f1e8a5d51bc6ceb7c429712ac0ac04bb}
+      \strng{authorfullhash}{f1e8a5d51bc6ceb7c429712ac0ac04bb}
+      \strng{authorfullhashraw}{f1e8a5d51bc6ceb7c429712ac0ac04bb}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2023 Joint Conference of the European Frequency and Time Forum and IEEE International Frequency Control Symposium (EFTF/IFCS)}
+      \field{title}{PZT-based Multi-Mode Cantilever for Viscosity Sensing}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 4}
+      \range{pages}{4}
+    \endentry
+    \entry{tiwari2023tip}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=f1d4832d6fa5dece32a2e60082558bac}{%
+           family={\textbf{Tiwari,\bibnamedelimb Sudhanshu}},
+           familyi={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=f590492351a6431400e243a9af95d517}{%
+           family={Dangi},
+           familyi={D\bibinitperiod},
+           given={Ajay},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0e1788e2b986a8b6e191db436f128e0c}{%
+           family={Pratap},
+           familyi={P\bibinitperiod},
+           given={Rudra},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group UK London}%
+      }
+      \strng{namehash}{5456608f6bb7b140b9ac64322e2ff7b8}
+      \strng{fullhash}{5456608f6bb7b140b9ac64322e2ff7b8}
+      \strng{fullhashraw}{5456608f6bb7b140b9ac64322e2ff7b8}
+      \strng{bibnamehash}{5456608f6bb7b140b9ac64322e2ff7b8}
+      \strng{authorbibnamehash}{5456608f6bb7b140b9ac64322e2ff7b8}
+      \strng{authornamehash}{5456608f6bb7b140b9ac64322e2ff7b8}
+      \strng{authorfullhash}{5456608f6bb7b140b9ac64322e2ff7b8}
+      \strng{authorfullhashraw}{5456608f6bb7b140b9ac64322e2ff7b8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Microsystems \& Nanoengineering}
+      \field{number}{1}
+      \field{title}{A tip-coupled, two-cantilever, non-resonant microsystem for direct measurement of liquid viscosity}
+      \field{volume}{9}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{34}
+      \range{pages}{1}
+    \endentry
+    \entry{9699467}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{hash=1ef3f75be87c0900c249d7055244d27b}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Vishnu},
+           giveni={V\bibinitperiod}}}%
+        {{hash=f1d4832d6fa5dece32a2e60082558bac}{%
+           family={\textbf{Tiwari,\bibnamedelimb Sudhanshu}},
+           familyi={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=5a8d0ea12c7c709c154fdd57e08c784c}{%
+           family={Joshi},
+           familyi={J\bibinitperiod},
+           given={Shreeraj},
+           giveni={S\bibinitperiod}}}%
+        {{hash=126ede46b35a642f9033c1671a2efc04}{%
+           family={Chandorkar},
+           familyi={C\bibinitperiod},
+           given={Saurabh\bibnamedelima Arun},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{06e35d9643220f916f1b3b568e44868a}
+      \strng{fullhash}{06e35d9643220f916f1b3b568e44868a}
+      \strng{fullhashraw}{06e35d9643220f916f1b3b568e44868a}
+      \strng{bibnamehash}{06e35d9643220f916f1b3b568e44868a}
+      \strng{authorbibnamehash}{06e35d9643220f916f1b3b568e44868a}
+      \strng{authornamehash}{06e35d9643220f916f1b3b568e44868a}
+      \strng{authorfullhash}{06e35d9643220f916f1b3b568e44868a}
+      \strng{authorfullhashraw}{06e35d9643220f916f1b3b568e44868a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2022 IEEE 35th International Conference on Micro Electro Mechanical Systems Conference (MEMS)}
+      \field{title}{Novel Estimation Method for Dielectric Loss Quality Factor in Composite SOI/PZT Devices}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{754\bibrangedash 757}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/MEMS51670.2022.9699467
+      \endverb
+    \endentry
+    \entry{tiwari2021low}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=f1d4832d6fa5dece32a2e60082558bac}{%
+           family={\textbf{Tiwari,\bibnamedelimb Sudhanshu}},
+           familyi={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=7007174a2b9f288965440acdc65b6f39}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Randhir},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f590492351a6431400e243a9af95d517}{%
+           family={Dangi},
+           familyi={D\bibinitperiod},
+           given={Ajay},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1b2da549cd41360c7d31741535e10e16}{%
+           family={Antony},
+           familyi={A\bibinitperiod},
+           given={Jeyaseelan\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=a1a223c91efa779b46b6b08fb0bb5b80}{%
+           family={Dutta},
+           familyi={D\bibinitperiod},
+           given={Soma},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0e1788e2b986a8b6e191db436f128e0c}{%
+           family={Pratap},
+           familyi={P\bibinitperiod},
+           given={Rudra},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{6d80d1ead2a2d7ae612f76bd50337183}
+      \strng{fullhash}{6d80d1ead2a2d7ae612f76bd50337183}
+      \strng{fullhashraw}{6d80d1ead2a2d7ae612f76bd50337183}
+      \strng{bibnamehash}{6d80d1ead2a2d7ae612f76bd50337183}
+      \strng{authorbibnamehash}{6d80d1ead2a2d7ae612f76bd50337183}
+      \strng{authornamehash}{6d80d1ead2a2d7ae612f76bd50337183}
+      \strng{authorfullhash}{6d80d1ead2a2d7ae612f76bd50337183}
+      \strng{authorfullhashraw}{6d80d1ead2a2d7ae612f76bd50337183}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Micromechanics and Microengineering}
+      \field{number}{2}
+      \field{title}{Low cost, contamination-free, and damage-free fabrication of PZT MEMS on SOI substrate}
+      \field{volume}{32}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{025003}
+      \range{pages}{1}
+    \endentry
+    \entry{9251421}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=d59d2029f930cf2b55b723cca6aafc0e}{%
+           family={{Kumar}},
+           familyi={K\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f1d4832d6fa5dece32a2e60082558bac}{%
+           family={\textbf{Tiwari,\bibnamedelimb Sudhanshu}},
+           familyi={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=519577f09e91c0073ee2136111be5ad8}{%
+           family={{Pratap}},
+           familyi={P\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{2dfb1ffd2c23cb207e483a20d88b7688}
+      \strng{fullhash}{2dfb1ffd2c23cb207e483a20d88b7688}
+      \strng{fullhashraw}{2dfb1ffd2c23cb207e483a20d88b7688}
+      \strng{bibnamehash}{2dfb1ffd2c23cb207e483a20d88b7688}
+      \strng{authorbibnamehash}{2dfb1ffd2c23cb207e483a20d88b7688}
+      \strng{authornamehash}{2dfb1ffd2c23cb207e483a20d88b7688}
+      \strng{authorfullhash}{2dfb1ffd2c23cb207e483a20d88b7688}
+      \strng{authorfullhashraw}{2dfb1ffd2c23cb207e483a20d88b7688}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2020 IEEE International Ultrasonics Symposium (IUS)}
+      \field{title}{Significant Enhancement in Operational Bandwidth of ZnO PMUTs due to the Simultaneous Existence of Softening and Hardening Nonlinearity}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 4}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/IUS46767.2020.9251421
+      \endverb
+    \endentry
+    \entry{kumar2020growth}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=7007174a2b9f288965440acdc65b6f39}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Randhir},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f1d4832d6fa5dece32a2e60082558bac}{%
+           family={\textbf{Tiwari,\bibnamedelimb Sudhanshu}},
+           familyi={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=0c1b98a16745a34b69760fb69fdc40ca}{%
+           family={Thakur},
+           familyi={T\bibinitperiod},
+           given={Varun},
+           giveni={V\bibinitperiod}}}%
+        {{hash=0e1788e2b986a8b6e191db436f128e0c}{%
+           family={Pratap},
+           familyi={P\bibinitperiod},
+           given={Rudra},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{30a14162e9708b44d5bc2fb9f757f840}
+      \strng{fullhash}{30a14162e9708b44d5bc2fb9f757f840}
+      \strng{fullhashraw}{30a14162e9708b44d5bc2fb9f757f840}
+      \strng{bibnamehash}{30a14162e9708b44d5bc2fb9f757f840}
+      \strng{authorbibnamehash}{30a14162e9708b44d5bc2fb9f757f840}
+      \strng{authornamehash}{30a14162e9708b44d5bc2fb9f757f840}
+      \strng{authorfullhash}{30a14162e9708b44d5bc2fb9f757f840}
+      \strng{authorfullhashraw}{30a14162e9708b44d5bc2fb9f757f840}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Materials Chemistry and Physics}
+      \field{title}{Growth of ultrafast, super dense ZnO nanorods using microwaves for piezoelectric MEMS applications}
+      \field{volume}{255}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{123607}
+      \range{pages}{1}
+    \endentry
+    \entry{9281355}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=098eabe76bad9a60912314a254e840e0}{%
+           family={Mere},
+           familyi={M\bibinitperiod},
+           given={Viphretuo},
+           giveni={V\bibinitperiod}}}%
+        {{hash=f1d4832d6fa5dece32a2e60082558bac}{%
+           family={\textbf{Tiwari,\bibnamedelimb Sudhanshu}},
+           familyi={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=5e9c7839c7e414e6d88ffa01f6e5365b}{%
+           family={Dash},
+           familyi={D\bibinitperiod},
+           given={Aneesh},
+           giveni={A\bibinitperiod}}}%
+        {{hash=27b3b074507b3bf9431266423f63a04a}{%
+           family={Kallega},
+           familyi={K\bibinitperiod},
+           given={Rakshitha},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8eb149302a75d940091e24239f1eb88c}{%
+           family={Naik},
+           familyi={N\bibinitperiod},
+           given={Akshay},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0e1788e2b986a8b6e191db436f128e0c}{%
+           family={Pratap},
+           familyi={P\bibinitperiod},
+           given={Rudra},
+           giveni={R\bibinitperiod}}}%
+        {{hash=99a5a55f42d2823981571d66befb0e4e}{%
+           family={Selvaraja},
+           familyi={S\bibinitperiod},
+           given={Shankar\bibnamedelima Kumar},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb909a0e68ebeaed3f67f43cc1fc3ae3}
+      \strng{fullhash}{eb909a0e68ebeaed3f67f43cc1fc3ae3}
+      \strng{fullhashraw}{eb909a0e68ebeaed3f67f43cc1fc3ae3}
+      \strng{bibnamehash}{eb909a0e68ebeaed3f67f43cc1fc3ae3}
+      \strng{authorbibnamehash}{eb909a0e68ebeaed3f67f43cc1fc3ae3}
+      \strng{authornamehash}{eb909a0e68ebeaed3f67f43cc1fc3ae3}
+      \strng{authorfullhash}{eb909a0e68ebeaed3f67f43cc1fc3ae3}
+      \strng{authorfullhashraw}{eb909a0e68ebeaed3f67f43cc1fc3ae3}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Sensors Letters}
+      \field{number}{12}
+      \field{title}{Photonics Integrated PiezoMEMS-PipMEMS: A Scalable Hybrid Platform for Next-Generation MEMS}
+      \field{volume}{4}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 4}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/LSENS.2020.3042708
+      \endverb
+    \endentry
+    \entry{withmere}{inproceedings}{}{}
+      \name{author}{7}{}{%
+        {{hash=098eabe76bad9a60912314a254e840e0}{%
+           family={Mere},
+           familyi={M\bibinitperiod},
+           given={Viphretuo},
+           giveni={V\bibinitperiod}}}%
+        {{hash=f1d4832d6fa5dece32a2e60082558bac}{%
+           family={\textbf{Tiwari,\bibnamedelimb Sudhanshu}},
+           familyi={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=42f77db3fd5b14157de96e6540d46d76}{%
+           family={Dash},
+           familyi={D\bibinitperiod},
+           given={Anish},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a6d144df376ceb9a25eb4d4e34dbcf38}{%
+           family={Kallega},
+           familyi={K\bibinitperiod},
+           given={Rakshita},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8eb149302a75d940091e24239f1eb88c}{%
+           family={Naik},
+           familyi={N\bibinitperiod},
+           given={Akshay},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0e1788e2b986a8b6e191db436f128e0c}{%
+           family={Pratap},
+           familyi={P\bibinitperiod},
+           given={Rudra},
+           giveni={R\bibinitperiod}}}%
+        {{hash=99a5a55f42d2823981571d66befb0e4e}{%
+           family={Selvaraja},
+           familyi={S\bibinitperiod},
+           given={Shankar\bibnamedelima Kumar},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{9a4297c80338a97ddf602992d1d0f3c8}
+      \strng{fullhash}{9a4297c80338a97ddf602992d1d0f3c8}
+      \strng{fullhashraw}{9a4297c80338a97ddf602992d1d0f3c8}
+      \strng{bibnamehash}{9a4297c80338a97ddf602992d1d0f3c8}
+      \strng{authorbibnamehash}{9a4297c80338a97ddf602992d1d0f3c8}
+      \strng{authornamehash}{9a4297c80338a97ddf602992d1d0f3c8}
+      \strng{authorfullhash}{9a4297c80338a97ddf602992d1d0f3c8}
+      \strng{authorfullhashraw}{9a4297c80338a97ddf602992d1d0f3c8}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2020 IEE Sensors}
+      \field{title}{Silicon Photonics Enabled on-Chip Optical Readout of piezoMEMS Resonators}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{\textbf{Best Paper Award}}
+      \range{pages}{-1}
+    \endentry
+    \entry{9120019}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=f1d4832d6fa5dece32a2e60082558bac}{%
+           family={\textbf{Tiwari,\bibnamedelimb Sudhanshu}},
+           familyi={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=7007174a2b9f288965440acdc65b6f39}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Randhir},
+           giveni={R\bibinitperiod}}}%
+        {{hash=126ede46b35a642f9033c1671a2efc04}{%
+           family={Chandorkar},
+           familyi={C\bibinitperiod},
+           given={Saurabh\bibnamedelima Arun},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=0e1788e2b986a8b6e191db436f128e0c}{%
+           family={Pratap},
+           familyi={P\bibinitperiod},
+           given={Rudra},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{5be9dd8a4f2f708f2b02fddd47bdd222}
+      \strng{fullhash}{5be9dd8a4f2f708f2b02fddd47bdd222}
+      \strng{fullhashraw}{5be9dd8a4f2f708f2b02fddd47bdd222}
+      \strng{bibnamehash}{5be9dd8a4f2f708f2b02fddd47bdd222}
+      \strng{authorbibnamehash}{5be9dd8a4f2f708f2b02fddd47bdd222}
+      \strng{authornamehash}{5be9dd8a4f2f708f2b02fddd47bdd222}
+      \strng{authorfullhash}{5be9dd8a4f2f708f2b02fddd47bdd222}
+      \strng{authorfullhashraw}{5be9dd8a4f2f708f2b02fddd47bdd222}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Microelectromechanical Systems}
+      \field{number}{5}
+      \field{title}{Fully Differential Actuation and Sensing in Piezoelectric Diaphragm Resonators for High Signal to Background Resonant Sensing}
+      \field{volume}{29}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{888\bibrangedash 893}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/JMEMS.2020.3001246
+      \endverb
+    \endentry
+    \entry{tiwari}{patent}{}{}
+      \name{author}{2}{}{%
+        {{hash=f1d4832d6fa5dece32a2e60082558bac}{%
+           family={\textbf{Tiwari,\bibnamedelimb Sudhanshu}},
+           familyi={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=0e1788e2b986a8b6e191db436f128e0c}{%
+           family={Pratap},
+           familyi={P\bibinitperiod},
+           given={Rudra},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Indian Patent}%
+      }
+      \strng{namehash}{47119b1ea19ffe5c07c318e9995542b7}
+      \strng{fullhash}{47119b1ea19ffe5c07c318e9995542b7}
+      \strng{fullhashraw}{47119b1ea19ffe5c07c318e9995542b7}
+      \strng{bibnamehash}{47119b1ea19ffe5c07c318e9995542b7}
+      \strng{authorbibnamehash}{47119b1ea19ffe5c07c318e9995542b7}
+      \strng{authornamehash}{47119b1ea19ffe5c07c318e9995542b7}
+      \strng{authorfullhash}{47119b1ea19ffe5c07c318e9995542b7}
+      \strng{authorfullhashraw}{47119b1ea19ffe5c07c318e9995542b7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Indian Patent Application Number: 202041024905}
+      \field{title}{A device to determine viscosity of a fluid and a method thereof}
+      \field{year}{2020}
+      \true{nocite}
+    \endentry
+    \entry{cheng2019thin}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=c417636919a9b066be0528345597276a}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Christopher\bibnamedelima Y},
+           giveni={C\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=f590492351a6431400e243a9af95d517}{%
+           family={Dangi},
+           familyi={D\bibinitperiod},
+           given={Ajay},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7368abb228f7ac2cb32468659fe96bd0}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={Liqiang},
+           giveni={L\bibinitperiod}}}%
+        {{hash=f1d4832d6fa5dece32a2e60082558bac}{%
+           family={\textbf{Tiwari,\bibnamedelimb Sudhanshu}},
+           familyi={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=0e7d5472e6c039c96e904788e7d848f8}{%
+           family={Benoit},
+           familyi={B\bibinitperiod},
+           given={Robert\bibnamedelima R},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=42a521f050707f7ae9f5559a44cc0c63}{%
+           family={Qiu},
+           familyi={Q\bibinitperiod},
+           given={Yongqiang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=780c8d87eabd9055f029ebb01a2e997f}{%
+           family={Lay},
+           familyi={L\bibinitperiod},
+           given={Holly\bibnamedelima S},
+           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=6367f20744519aa2b1efb56da98136d9}{%
+           family={Agrawal},
+           familyi={A\bibinitperiod},
+           given={Sumit},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0e1788e2b986a8b6e191db436f128e0c}{%
+           family={Pratap},
+           familyi={P\bibinitperiod},
+           given={Rudra},
+           giveni={R\bibinitperiod}}}%
+        {{hash=90076961e458ac19ce95fb7e7d377274}{%
+           family={Kothapalli},
+           familyi={K\bibinitperiod},
+           given={Sri-Rajasekhar},
+           giveni={S\bibinithyphendelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{51f3e3ee8f6ba374723a98d13055562b}
+      \strng{fullhash}{51f3e3ee8f6ba374723a98d13055562b}
+      \strng{fullhashraw}{51f3e3ee8f6ba374723a98d13055562b}
+      \strng{bibnamehash}{51f3e3ee8f6ba374723a98d13055562b}
+      \strng{authorbibnamehash}{51f3e3ee8f6ba374723a98d13055562b}
+      \strng{authornamehash}{51f3e3ee8f6ba374723a98d13055562b}
+      \strng{authorfullhash}{51f3e3ee8f6ba374723a98d13055562b}
+      \strng{authorfullhashraw}{51f3e3ee8f6ba374723a98d13055562b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE transactions on ultrasonics, ferroelectrics, and frequency control}
+      \field{number}{10}
+      \field{title}{Thin Film PZT-Based PMUT Arrays for Deterministic Particle Manipulation}
+      \field{volume}{66}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{1606\bibrangedash 1615}
+      \range{pages}{10}
+    \endentry
+    \entry{dangi2019ring}{inproceedings}{}{}
+      \name{author}{9}{}{%
+        {{hash=f590492351a6431400e243a9af95d517}{%
+           family={Dangi},
+           familyi={D\bibinitperiod},
+           given={Ajay},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6367f20744519aa2b1efb56da98136d9}{%
+           family={Agrawal},
+           familyi={A\bibinitperiod},
+           given={Sumit},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f1d4832d6fa5dece32a2e60082558bac}{%
+           family={\textbf{Tiwari,\bibnamedelimb Sudhanshu}},
+           familyi={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=27bbe1357ca1305f064e402652cdc5e8}{%
+           family={Jadhav},
+           familyi={J\bibinitperiod},
+           given={Shubham},
+           giveni={S\bibinitperiod}}}%
+        {{hash=559bcf8eabe88ac2f310297c35fa3499}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e751a8737b82c8291190c8038db59f00}{%
+           family={Datta},
+           familyi={D\bibinitperiod},
+           given={Gaurav\bibnamedelima Ramesh},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=17036dca76ccd0b17507e52f9f9e6b42}{%
+           family={Troiler-McKinstry},
+           familyi={T\bibinithyphendelim M\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0e1788e2b986a8b6e191db436f128e0c}{%
+           family={Pratap},
+           familyi={P\bibinitperiod},
+           given={Rudra},
+           giveni={R\bibinitperiod}}}%
+        {{hash=90076961e458ac19ce95fb7e7d377274}{%
+           family={Kothapalli},
+           familyi={K\bibinitperiod},
+           given={Sri-Rajasekhar},
+           giveni={S\bibinithyphendelim R\bibinitperiod}}}%
+      }
+      \list{organization}{2}{%
+        {International Society for Optics}%
+        {Photonics}%
+      }
+      \strng{namehash}{20364f34290f0d7e346010955c295250}
+      \strng{fullhash}{20364f34290f0d7e346010955c295250}
+      \strng{fullhashraw}{20364f34290f0d7e346010955c295250}
+      \strng{bibnamehash}{20364f34290f0d7e346010955c295250}
+      \strng{authorbibnamehash}{20364f34290f0d7e346010955c295250}
+      \strng{authornamehash}{20364f34290f0d7e346010955c295250}
+      \strng{authorfullhash}{20364f34290f0d7e346010955c295250}
+      \strng{authorfullhashraw}{20364f34290f0d7e346010955c295250}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Photons Plus Ultrasound: Imaging and Sensing 2019}
+      \field{title}{Ring PMUT array based miniaturized photoacoustic endoscopy device}
+      \field{volume}{10878}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{1087811}
+      \range{pages}{1}
+    \endentry
+    \entry{dangi2019photoacoustic}{article}{}{}
+      \name{author}{9}{}{%
+        {{hash=f590492351a6431400e243a9af95d517}{%
+           family={Dangi},
+           familyi={D\bibinitperiod},
+           given={Ajay},
+           giveni={A\bibinitperiod}}}%
+        {{hash=559bcf8eabe88ac2f310297c35fa3499}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod}}}%
+        {{hash=6367f20744519aa2b1efb56da98136d9}{%
+           family={Agrawal},
+           familyi={A\bibinitperiod},
+           given={Sumit},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f1d4832d6fa5dece32a2e60082558bac}{%
+           family={\textbf{Tiwari,\bibnamedelimb Sudhanshu}},
+           familyi={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=e751a8737b82c8291190c8038db59f00}{%
+           family={Datta},
+           familyi={D\bibinitperiod},
+           given={Gaurav\bibnamedelima Ramesh},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=8acbf2696afc280354cd24167bcacb14}{%
+           family={Benoit},
+           familyi={B\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=0e1788e2b986a8b6e191db436f128e0c}{%
+           family={Pratap},
+           familyi={P\bibinitperiod},
+           given={Rudra},
+           giveni={R\bibinitperiod}}}%
+        {{hash=fbf4bc651cc9c70fdeec3a9235342f5d}{%
+           family={Trolier-McKinstry},
+           familyi={T\bibinithyphendelim M\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=90076961e458ac19ce95fb7e7d377274}{%
+           family={Kothapalli},
+           familyi={K\bibinitperiod},
+           given={Sri-Rajasekhar},
+           giveni={S\bibinithyphendelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{b44c655d0aaf6130e276016cd51b0880}
+      \strng{fullhash}{b44c655d0aaf6130e276016cd51b0880}
+      \strng{fullhashraw}{b44c655d0aaf6130e276016cd51b0880}
+      \strng{bibnamehash}{b44c655d0aaf6130e276016cd51b0880}
+      \strng{authorbibnamehash}{b44c655d0aaf6130e276016cd51b0880}
+      \strng{authornamehash}{b44c655d0aaf6130e276016cd51b0880}
+      \strng{authorfullhash}{b44c655d0aaf6130e276016cd51b0880}
+      \strng{authorfullhashraw}{b44c655d0aaf6130e276016cd51b0880}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control}
+      \field{title}{A Photoacoustic Imaging Device using Piezoelectric Micromachined Ultrasound Transducers (PMUTs)}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{tiwari2019realization}{inproceedings}{}{}
+      \name{author}{6}{}{%
+        {{hash=f1d4832d6fa5dece32a2e60082558bac}{%
+           family={\textbf{Tiwari,\bibnamedelimb Sudhanshu}},
+           familyi={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=7007174a2b9f288965440acdc65b6f39}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Randhir},
+           giveni={R\bibinitperiod}}}%
+        {{hash=dbb127f4ed06611d83a7e6789489b685}{%
+           family={Menon},
+           familyi={M\bibinitperiod},
+           given={P\bibnamedelima Krishna},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=1b2da549cd41360c7d31741535e10e16}{%
+           family={Antony},
+           familyi={A\bibinitperiod},
+           given={Jeyaseelan\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=a1a223c91efa779b46b6b08fb0bb5b80}{%
+           family={Dutta},
+           familyi={D\bibinitperiod},
+           given={Soma},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0e1788e2b986a8b6e191db436f128e0c}{%
+           family={Pratap},
+           familyi={P\bibinitperiod},
+           given={Rudra},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{5a62955fece78a3a5cfda2f201e0fbcd}
+      \strng{fullhash}{5a62955fece78a3a5cfda2f201e0fbcd}
+      \strng{fullhashraw}{5a62955fece78a3a5cfda2f201e0fbcd}
+      \strng{bibnamehash}{5a62955fece78a3a5cfda2f201e0fbcd}
+      \strng{authorbibnamehash}{5a62955fece78a3a5cfda2f201e0fbcd}
+      \strng{authornamehash}{5a62955fece78a3a5cfda2f201e0fbcd}
+      \strng{authorfullhash}{5a62955fece78a3a5cfda2f201e0fbcd}
+      \strng{authorfullhashraw}{5a62955fece78a3a5cfda2f201e0fbcd}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 International Conference on Manipulation, Automation and Robotics at Small Scales (MARSS)}
+      \field{title}{On the Realization of Self-Sensing Piezoelectric MEMS Actuators}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+    \endentry
+    \entry{dangi2018evaluation}{inproceedings}{}{}
+      \name{author}{8}{}{%
+        {{hash=f590492351a6431400e243a9af95d517}{%
+           family={Dangi},
+           familyi={D\bibinitperiod},
+           given={Ajay},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6367f20744519aa2b1efb56da98136d9}{%
+           family={Agrawal},
+           familyi={A\bibinitperiod},
+           given={Sumit},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f1d4832d6fa5dece32a2e60082558bac}{%
+           family={\textbf{Tiwari,\bibnamedelimb Sudhanshu}},
+           familyi={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=27bbe1357ca1305f064e402652cdc5e8}{%
+           family={Jadhav},
+           familyi={J\bibinitperiod},
+           given={Shubham},
+           giveni={S\bibinitperiod}}}%
+        {{hash=559bcf8eabe88ac2f310297c35fa3499}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod}}}%
+        {{hash=fbf4bc651cc9c70fdeec3a9235342f5d}{%
+           family={Trolier-McKinstry},
+           familyi={T\bibinithyphendelim M\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0e1788e2b986a8b6e191db436f128e0c}{%
+           family={Pratap},
+           familyi={P\bibinitperiod},
+           given={Rudra},
+           giveni={R\bibinitperiod}}}%
+        {{hash=90076961e458ac19ce95fb7e7d377274}{%
+           family={Kothapalli},
+           familyi={K\bibinitperiod},
+           given={Sri-Rajasekhar},
+           giveni={S\bibinithyphendelim R\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{7abd544daff48db7cf764b8d82156c4e}
+      \strng{fullhash}{7abd544daff48db7cf764b8d82156c4e}
+      \strng{fullhashraw}{7abd544daff48db7cf764b8d82156c4e}
+      \strng{bibnamehash}{7abd544daff48db7cf764b8d82156c4e}
+      \strng{authorbibnamehash}{7abd544daff48db7cf764b8d82156c4e}
+      \strng{authornamehash}{7abd544daff48db7cf764b8d82156c4e}
+      \strng{authorfullhash}{7abd544daff48db7cf764b8d82156c4e}
+      \strng{authorfullhashraw}{7abd544daff48db7cf764b8d82156c4e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 IEEE SENSORS}
+      \field{title}{Evaluation of High Frequency Piezoelectric Micromachined Ultrasound Transducers for Photoacoustic Imaging}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 4}
+      \range{pages}{4}
+    \endentry
+    \entry{tiwari2018enabling}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{hash=f1d4832d6fa5dece32a2e60082558bac}{%
+           family={\textbf{Tiwari,\bibnamedelimb Sudhanshu}},
+           familyi={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=7007174a2b9f288965440acdc65b6f39}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Randhir},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f590492351a6431400e243a9af95d517}{%
+           family={Dangi},
+           familyi={D\bibinitperiod},
+           given={Ajay},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0e1788e2b986a8b6e191db436f128e0c}{%
+           family={Pratap},
+           familyi={P\bibinitperiod},
+           given={Rudra},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{f5ce749421b12799b8395b864eb76bdb}
+      \strng{fullhash}{f5ce749421b12799b8395b864eb76bdb}
+      \strng{fullhashraw}{f5ce749421b12799b8395b864eb76bdb}
+      \strng{bibnamehash}{f5ce749421b12799b8395b864eb76bdb}
+      \strng{authorbibnamehash}{f5ce749421b12799b8395b864eb76bdb}
+      \strng{authornamehash}{f5ce749421b12799b8395b864eb76bdb}
+      \strng{authorfullhash}{f5ce749421b12799b8395b864eb76bdb}
+      \strng{authorfullhashraw}{f5ce749421b12799b8395b864eb76bdb}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 IEEE SENSORS}
+      \field{title}{Enabling Fabrication of PZT Based PiezoMEMS Devices}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 4}
+      \range{pages}{4}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
